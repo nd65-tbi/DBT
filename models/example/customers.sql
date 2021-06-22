@@ -1,3 +1,8 @@
+{{ config {
+    materiak=lized="table"
+}}}
+
+
 with customers as (
 
     select
