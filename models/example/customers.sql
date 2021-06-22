@@ -1,6 +1,6 @@
-{{ config {
+{{ config (
     materiak=lized="table"
-}}}
+)}}
 
 
 with customers as (
