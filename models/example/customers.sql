@@ -1,5 +1,5 @@
-{{ config (
-    materiak=lized="table"
+{{ config(
+    materialized="table"
 )}}
 
 
